@@ -10,3 +10,6 @@
 	path = rrhh
 	url = git@github.com:rocketgithub/rrhh.git
 	branch = 13.0
+[submodule "dinegma"]
+	path = dinegma
+	url = git@github.com:rocketgithub/dinegma.git
