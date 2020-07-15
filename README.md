@@ -1,2 +1,1 @@
 # dinegma-odoo.sh
-
