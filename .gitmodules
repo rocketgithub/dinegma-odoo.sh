@@ -32,3 +32,7 @@
 	path = pos_fel
 	url = git@github.com:rocketgithub/pos_fel.git
 	branch = master
+[submodule "albaran_analitico"]
+	path = albaran_analitico
+	url = git@github.com:rocketgithub/albaran_analitico.git
+	branch = 13.0
